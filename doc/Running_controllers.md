@@ -105,7 +105,7 @@ As previously, you have two ways to use `position_velocity_effort_gain_controlle
 
 1) If `pveg_controller` is specified in the file `bolt_system_pveg.launch.py` at `DeclareLaunchArgument` line 54 in the `default_value`, run this command :
 
-     ros2 launch gazebo_ros2_control_bolt bolt_system_position_only_gazebo.launch.py 
+       ros2 launch gazebo_ros2_control_bolt bolt_system_position_only_gazebo.launch.py 
         
 2) If not :
 
