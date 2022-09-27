@@ -43,7 +43,7 @@ ros2 topic pub /forward_command_controller/commands std_msgs/msg/Float64MultiArr
       
    - Open a new Terminal, source ros and do :
 
-          ros2 control load_controller forward_position_controller
+        ros2 control load_controller forward_position_controller
 
    - Check if the controller is loaded properly:
 
