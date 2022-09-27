@@ -11,7 +11,7 @@ When you have configured all the positions, you should run the new controller. :
 
 2) Run in this terminal the `bolt_system_position_only` file (if you don't know how, follow the previous tutorial) :
 
-        ros2 launch ros2_control_bolt_bringup bolt_system_position_only.launch.py
+       ros2 launch ros2_control_bolt_bringup bolt_system_position_only.launch.py
 
 3) For the moment, when it is running you have 2 ways to send commands by publishing in a topic :
 
