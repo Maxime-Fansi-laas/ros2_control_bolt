@@ -180,7 +180,8 @@ try to run pveg_controller on Gazebo.
 
 If you want the robot to move (on Gazebo or in real-time), you just need to change those values. However, tests them on Gazebo before applying them on the real robot.
 
- Now you can see bolt moving accordingly.
+
+   **Now you can see bolt moving accordingly.**
    
 
 **Be careful, when you start the controller, you must always have the emergency stop button nearby.**
