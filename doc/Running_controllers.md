@@ -37,7 +37,7 @@ ros2 topic pub /forward_command_controller/commands std_msgs/msg/Float64MultiArr
 - 0.0"
 ```
 
-          **Now you can see bolt moving accordingly.**
+     **Now you can see bolt moving accordingly.**
 
    3.2) Secondly, if you haven't the `forward_position_controller` to `default_value` for the `DeclareLaunchArgument` and you don't want to put it on for whatever reason . You can start the controller by another method, **manually**:
       
