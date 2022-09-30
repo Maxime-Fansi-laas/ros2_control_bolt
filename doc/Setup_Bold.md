@@ -91,4 +91,4 @@
 
     **Now you have seen how you put the right Ethernet Port in the code.**
 
-### Your next step is to run some tests to see how the Bolt works.
+### Your next step is to run some tests to see [how Bolt works](https://github.com/Maxime-Fansi-laas/ros2_control_bolt/blob/master/doc/Calibration.md)
